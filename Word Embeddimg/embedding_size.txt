@@ -1,0 +1,5 @@
+# if you want to add embedding layer change the INPUT_DIM in segrnn-sup.cc to the next values.
+
+Flair = 4096
+FastText = 950
+Muse = 512

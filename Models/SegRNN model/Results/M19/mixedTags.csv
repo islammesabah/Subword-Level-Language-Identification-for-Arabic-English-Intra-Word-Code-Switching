@@ -1,0 +1,199 @@
+#,Token,Actual,Pred,AcTag,AcSegment,PredTag,PredSegment
+13,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+20,باللاب,AR:3 EN:3,AR:3 EN:3,"AR,EN","3,3","AR,EN","3,3"
+51,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+61,للshowcase,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+62,والpromoting,AR:3 EN:9,AR:3 EN:9,"AR,EN","3,9","AR,EN","3,9"
+98,الجروب,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+142,lta,AR:1 EN:2,AR:1 EN:2,"AR,EN","1,2","AR,EN","1,2"
+170,للكويزات,AR:2 EN:4 AR:2,AR:2 EN:4 AR:2,"AR,EN,AR","2,4,2","AR,EN,AR","2,4,2"
+172,الفاينال,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+187,الفيس,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+201,الجروب,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+212,elendorphins,AR:2 EN:10,AR:2 EN:10,"AR,EN","2,10","AR,EN","2,10"
+223,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+229,lquake,AR:1 EN:5,AR:1 EN:5,"AR,EN","1,5","AR,EN","1,5"
+260,پوستات,EN:4 AR:2,EN:4 AR:2,"EN,AR","4,2","EN,AR","4,2"
+352,الvoting,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+369,الجروب,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+379,elgame,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+388,flmidterm,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+393,elscenario,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+462,الجيميل,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+513,benefit,EN:7,AR:2 EN:5,EN,7,"AR,EN","2,5"
+525,ellecture,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+631,btargue,AR:2 EN:5,EN:7,"AR,EN","2,5",EN,7
+641,elgroup,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+691,ellectures,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+738,للide,AR:2 EN:3,AR:1 EN:4,"AR,EN","2,3","AR,EN","1,4"
+741,بالtutorial,AR:3 EN:8,AR:3 EN:8,"AR,EN","3,8","AR,EN","3,8"
+747,الكود,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+751,الvarabile,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+784,الايرور,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+856,بالميكرو,AR:3 EN:5,AR:3 EN:5,"AR,EN","3,5","AR,EN","3,5"
+912,الفرايد,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+1008,elderasa,AR:8,AR:2 EN:6,AR,8,"AR,EN","2,6"
+1019,elinvertibility,AR:2 EN:13,AR:2 EN:13,"AR,EN","2,13","AR,EN","2,13"
+1035,mlinsertions,AR:2 EN:10,EN:12,"AR,EN","2,10",EN,12
+1163,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+1172,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+1180,بالاب,AR:2 EN:3,AR:5,"AR,EN","2,3",AR,5
+1216,الكامه,AR:2 EN:3 AR:1,AR:2 EN:3 AR:1,"AR,EN,AR","2,3,1","AR,EN,AR","2,3,1"
+1223,الكامه,AR:2 EN:3 AR:1,AR:2 EN:3 AR:1,"AR,EN,AR","2,3,1","AR,EN,AR","2,3,1"
+1234,السلندرات,AR:2 EN:5 AR:2,AR:2 EN:5 AR:2,"AR,EN,AR","2,5,2","AR,EN,AR","2,5,2"
+1362,بالop-amp,AR:3 EN:6,AR:3 EN:6,"AR,EN","3,6","AR,EN","3,6"
+1389,wloperands,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+1433,elproject,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+1451,الta,AR:2 EN:2,AR:2 EN:2,"AR,EN","2,2","AR,EN","2,2"
+1474,lbus,AR:1 EN:3,AR:1 EN:3,"AR,EN","1,3","AR,EN","1,3"
+1479,ellectures,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+1684,elblocking,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+1782,flreport,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+1784,lfile,AR:1 EN:4,AR:1 EN:4,"AR,EN","1,4","AR,EN","1,4"
+1787,large,EN:5,AR:1 EN:4,EN,5,"AR,EN","1,4"
+1825,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+1868,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+1903,lelcontinuous,AR:3 EN:10,AR:3 EN:10,"AR,EN","3,10","AR,EN","3,10"
+1904,wdiscrete,AR:1 EN:8,AR:1 EN:8,"AR,EN","1,8","AR,EN","1,8"
+1952,elgrades,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+1982,وintegration,AR:1 EN:11,AR:1 EN:11,"AR,EN","1,11","AR,EN","1,11"
+2005,nmake,AR:1 EN:4,AR:1 EN:4,"AR,EN","1,4","AR,EN","1,4"
+2010,lstatement,AR:1 EN:9,AR:1 EN:9,"AR,EN","1,9","AR,EN","1,9"
+2066,feltable,AR:3 EN:5,AR:3 EN:5,"AR,EN","3,5","AR,EN","3,5"
+2077,eleucledian,AR:2 EN:9,AR:2 EN:9,"AR,EN","2,9","AR,EN","2,9"
+2083,elgcd,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+2122,elvalue,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+2124,elcolumn,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+2145,elvalue,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+2155,elfloor,AR:2 EN:5,NE.EN:7,"AR,EN","2,5",NE.EN,7
+2177,fquiz,AR:1 EN:4,NE.AR:5,"AR,EN","1,4",NE.AR,5
+2178,elmedia,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+2184,y-accept,AR:1 OTHER:1 EN:6,AR:1 OTHER:1 EN:6,"AR,OTHER,EN","1,1,6","AR,OTHER,EN","1,1,6"
+2228,الويندوز,AR:2 EN:6,NE.EN:8,"AR,EN","2,6",NE.EN,8
+2246,واوبنتو,AR:1 EN:6,EN:7,"AR,EN","1,6",EN,7
+2259,هـdedicate,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+2268,الراوتر,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+2275,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+2494,responseo,EN:8 AR:1,EN:9,"EN,AR","8,1",EN,9
+2502,الrequest,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+2546,flterminal,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+2614,lline,AR:1 EN:4,AR:1 EN:4,"AR,EN","1,4","AR,EN","1,4"
+2678,lunstable,AR:1 EN:8,EN:9,"AR,EN","1,8",EN,9
+2738,loutput,AR:1 EN:6,AR:1 EN:6,"AR,EN","1,6","AR,EN","1,6"
+2745,lvaluation,AR:1 EN:9,AR:1 EN:9,"AR,EN","1,9","AR,EN","1,9"
+2853,elslides,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+2907,styleـوا,EN:5 AR:3,AR:8,"EN,AR","5,3",AR,8
+2908,الـcodebase,AR:3 EN:8,AR:3 EN:8,"AR,EN","3,8","AR,EN","3,8"
+2919,elwebsite,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+2961,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+2964,wblock,AR:1 EN:5,EN:6,"AR,EN","1,5",EN,6
+3066,روتانا,NE.AR:6,EN:3 AR:3,NE.AR,6,"EN,AR","3,3"
+3085,الكورنيش,AR:8,AR:2 EN:6,AR,8,"AR,EN","2,6"
+3245,elmidterm,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+3274,البرنس,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+3336,elcourses,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+3339,elsemester,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+3349,الكورسات,AR:2 EN:4 AR:2,AR:8,"AR,EN,AR","2,4,2",AR,8
+3356,النت,AR:2 EN:2,AR:4,"AR,EN","2,2",AR,4
+3455,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+3457,callونتفرج,EN:4 AR:6,EN:10,"EN,AR","4,6",EN,10
+3573,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+3597,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+3638,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+3641,الترم,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+3675,eldiscrete,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+3715,الأنثربولوجيين,AR:2 EN:12,NE.EN:14,"AR,EN","2,12",NE.EN,14
+3730,3lgroup,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+3814,llink,AR:1 EN:4,AR:1 EN:4,"AR,EN","1,4","AR,EN","1,4"
+3826,lpoll,AR:1 EN:4,AR:1 EN:4,"AR,EN","1,4","AR,EN","1,4"
+3862,والروتين,AR:3 EN:5,AR:8,"AR,EN","3,5",AR,8
+3891,lslides,AR:1 EN:6,AR:1 EN:6,"AR,EN","1,6","AR,EN","1,6"
+3906,welcatalogue,AR:3 EN:9,AR:3 EN:9,"AR,EN","3,9","AR,EN","3,9"
+3927,elinteger,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+4040,السميستر,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4047,elstack,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+4056,felvideos,AR:3 EN:6,AR:3 EN:6,"AR,EN","3,6","AR,EN","3,6"
+4136,lformat,AR:1 EN:6,AR:1 EN:6,"AR,EN","1,6","AR,EN","1,6"
+4204,elmeeting,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+4265,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+4300,السوبر,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+4312,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+4329,وباص,AR:1 EN:3,AR:1 EN:3,"AR,EN","1,3","AR,EN","1,3"
+4337,asimulate,AR:1 EN:8,EN:9,"AR,EN","1,8",EN,9
+4348,الفيزا,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+4376,floffice,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4379,eloffice,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4408,btlook,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+4482,elaccount,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+4487,elreports,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+4492,tchange,AR:1 EN:6,EN:7,"AR,EN","1,6",EN,7
+4539,الميدترم,AR:2 EN:6,AR:8,"AR,EN","2,6",AR,8
+4551,elgreedy,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4555,elsessions,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+4565,lworkshop,AR:1 EN:8,AR:1 EN:8,"AR,EN","1,8","AR,EN","1,8"
+4644,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+4668,lunit,AR:1 EN:4,NE.AR:5,"AR,EN","1,4",NE.AR,5
+4708,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+4740,bzero,AR:1 EN:4,AR:5,"AR,EN","1,4",AR,5
+4880,للموبايل,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4895,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+4898,الموبايل,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4903,أcontrol,AR:1 EN:7,EN:8,"AR,EN","1,7",EN,8
+4911,ال-over,AR:2 OTHER:1 EN:4,AR:2 EN:5,"AR,OTHER,EN","2,1,4","AR,EN","2,5"
+4936,elgivens,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+4953,leladdress,AR:3 EN:7,AR:3 EN:7,"AR,EN","3,7","AR,EN","3,7"
+4974,blbutton,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+5003,laughing,EN:8,AR:1 EN:7,EN,8,"AR,EN","1,7"
+5085,elmatchat,AR:2 EN:5 AR:2,AR:2 EN:7,"AR,EN,AR","2,5,2","AR,EN","2,7"
+5086,البوست,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+5100,الفيزا,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+5118,وبالباسبور,AR:4 EN:6,AR:10,"AR,EN","4,6",AR,10
+5157,الفيزا,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+5166,بالفيزا,AR:3 EN:4,AR:7,"AR,EN","3,4",AR,7
+5186,الفيزا,AR:2 EN:4,AR:6,"AR,EN","2,4",AR,6
+5225,felgraphics,AR:3 EN:8,AR:3 EN:8,"AR,EN","3,8","AR,EN","3,8"
+5233,dlw2te,AR:6,AR:2 EN:4,AR,6,"AR,EN","2,4"
+5297,elform,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+5304,lglobal,AR:1 EN:6,AR:7,"AR,EN","1,6",AR,7
+5338,elvideo,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+5370,البوردة,AR:2 EN:4 AR:1,AR:2 EN:4 AR:1,"AR,EN,AR","2,4,1","AR,EN,AR","2,4,1"
+5380,elreviewer,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+5500,الفول,AR:5,AR:2 EN:3,AR,5,"AR,EN","2,3"
+5601,flgraph,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+5632,felarduino,AR:3 EN:7,AR:3 EN:7,"AR,EN","3,7","AR,EN","3,7"
+5636,blapproach,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+5647,elacc,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+5656,elmaterial,AR:2 EN:8,AR:10,"AR,EN","2,8",AR,10
+5662,بstudy,AR:1 EN:5,AR:1 EN:5,"AR,EN","1,5","AR,EN","1,5"
+5694,blimagination,AR:2 EN:11,AR:2 EN:11,"AR,EN","2,11","AR,EN","2,11"
+5839,eldeadline,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+5847,elstate,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+5863,fldiscreet,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+5968,الcontext,AR:2 EN:7,AR:2 EN:7,"AR,EN","2,7","AR,EN","2,7"
+5972,الprocessor,AR:2 EN:9,AR:2 EN:9,"AR,EN","2,9","AR,EN","2,9"
+5998,ltransform,AR:1 EN:9,AR:1 EN:9,"AR,EN","1,9","AR,EN","1,9"
+6000,ldifferentiation,AR:1 EN:15,AR:1 EN:15,"AR,EN","1,15","AR,EN","1,15"
+6033,wtriple,AR:1 EN:6,AR:1 EN:6,"AR,EN","1,6","AR,EN","1,6"
+6065,elfans,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+6101,lgrading,AR:1 EN:7,AR:1 EN:7,"AR,EN","1,7","AR,EN","1,7"
+6112,y-add,AR:1 OTHER:1 EN:3,AR:5,"AR,OTHER,EN","1,1,3",AR,5
+6149,elvision,AR:2 EN:6,AR:2 EN:6,"AR,EN","2,6","AR,EN","2,6"
+6150,welmission,AR:3 EN:7,AR:3 EN:7,"AR,EN","3,7","AR,EN","3,7"
+6216,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+6234,الفايل,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+6293,الfeatures,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+6312,elgroup,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+6321,lnfa,AR:1 EN:3,AR:4,"AR,EN","1,3",AR,4
+6324,ldeterminism,AR:1 EN:11,AR:1 EN:11,"AR,EN","1,11","AR,EN","1,11"
+6347,elbars,AR:2 EN:4,AR:2 EN:4,"AR,EN","2,4","AR,EN","2,4"
+6381,الwip-work,AR:2 EN:8,AR:2 EN:8,"AR,EN","2,8","AR,EN","2,8"
+6387,التاسكات,AR:2 EN:4 AR:2,AR:2 EN:4 AR:2,"AR,EN,AR","2,4,2","AR,EN,AR","2,4,2"
+6503,lelboard,AR:3 EN:5,AR:3 EN:5,"AR,EN","3,5","AR,EN","3,5"
+6677,eltheme,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"
+6706,wlhe,AR:4,AR:2 EN:2,AR,4,"AR,EN","2,2"
+6760,laddress,AR:1 EN:7,EN:8,"AR,EN","1,7",EN,8
+6838,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+6849,الاكواد,AR:2 EN:5,AR:7,"AR,EN","2,5",AR,7
+6850,والتاجز,AR:3 EN:4,AR:7,"AR,EN","3,4",AR,7
+6862,اللاب,AR:2 EN:3,AR:2 EN:3,"AR,EN","2,3","AR,EN","2,3"
+6885,flgraph,AR:2 EN:5,AR:2 EN:5,"AR,EN","2,5","AR,EN","2,5"

@@ -1,0 +1,7 @@
+private
+.ipynb_checkpoints
+.vscode
+cnn-v1
+pre_trained_fasttext.aren
+pre_trained_flair.aren
+pre_trained_muse.aren
